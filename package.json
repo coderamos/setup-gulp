@@ -1,0 +1,25 @@
+{
+  "name": "coderamos-gulp-config",
+  "version": "1.0.0",
+  "author": "Diego Ramos",
+  "description": "Use Gulp to compile Sass and run a development server. Works with .HTML, .SCSS and .JS files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diegormedia/coderamos-gulp-config"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2"
+  }
+}

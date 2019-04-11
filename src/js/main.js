@@ -1,0 +1,1 @@
+console.log('wow, .js files are also watched by gulp!');
