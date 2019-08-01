@@ -1,4 +1,4 @@
-# Coderamos | Gulp Configuration Project
+# coderamos | GULP CONFIGURATION PROJECT
 
 Using Gulp to compile Sass and run a development server. Works with .HTML, .SCSS and .JS files.
 
@@ -26,6 +26,6 @@ Link for example video: https://www.youtube.com/watch?v=MvntpwqHqI4
 
 ## About Me
 
-My Github profile: https://github.com/diegormedia
+My Github profile: https://github.com/coderamos
 
-My Linkedin profile: https://www.linkedin.com/in/diegormedia/
+My Linkedin profile: https://www.linkedin.com/in/coderamos/
