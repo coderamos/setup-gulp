@@ -1,4 +1,4 @@
-# coderamos | GULP CONFIG
+# codefolio | GULP CONFIG
 
 Using Gulp to compile Sass and run a development server. Works with .HTML, .SCSS and .JS files.
 

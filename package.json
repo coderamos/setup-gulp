@@ -1,5 +1,5 @@
 {
-  "name": "coderamos-gulp-config",
+  "name": "codefolio-gulp-config",
   "version": "1.0.0",
   "author": "Diego Ramos",
   "description": "Use Gulp to compile Sass and run a development server. Works with .HTML, .SCSS and .JS files.",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/diegormedia/coderamos-gulp-config"
+    "url": "git://github.com/coderamos/codefolio-gulp-config"
   },
   "keywords": [],
   "license": "MIT",
