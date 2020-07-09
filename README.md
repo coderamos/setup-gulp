@@ -1,4 +1,4 @@
-# setup | GULP
+# example | GULP CONFIG
 
 Using Gulp to compile Sass and run a development server. Works with .HTML, .SCSS and .JS files.
 
